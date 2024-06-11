@@ -1,5 +1,5 @@
 # static-webpage-using-bootstrap
-Another static webpage (incase you've checked my [Previous git repo](https://github.com/yuviwolvy/static-webpage)) but using HTML, CSS and Bootstrap.
+Another static webpage (incase you've checked my [Previous git repo](https://github.com/yuviwolvy/static-webpage)) but using HTML, CSS and Bootstrap. Size of the repo might be large as I have used high quality images in the webpage and pushed them also!
 
 For installation just clone the repository, and that's it, you don't have to install Bootstrap as I've used CDN Links.
 
